@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate frontend developer from Vancouver, Canada.</h3>
 
-###
-
 <h2 align="left"></h2>
 
 ###
