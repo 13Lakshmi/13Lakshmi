@@ -4,17 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from Vancouver, Canada.</h3>
 
-<h2 align="left"></h2>
-
-###
-
-<p align="left"></p>
-
-###
-
 <h2 align="left">Languages and Tools:</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
